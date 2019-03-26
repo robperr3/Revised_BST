@@ -1,0 +1,3 @@
+﻿  Main.cpp
+e:\programming\c++\project1-kentrevisions\project1\project1\main.cpp(142): warning C4715: 'BST<int>::Find': not all control paths return a value
+  Project1.vcxproj -> E:\Programming\C++\Project1-KentRevisions\Project1\x64\Debug\Project1.exe
